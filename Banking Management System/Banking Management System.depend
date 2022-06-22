@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1623870242 source:c:\users\devansh\desktop\bank\banking management system\main.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	"Bank.h"
+	<windows.h>
+
+1623871022 c:\users\devansh\desktop\bank\banking management system\include\bank.h
+	<bits/stdc++.h>
+
+1623916433 source:c:\users\devansh\desktop\bank\banking management system\src\customer.cpp
+	<bits/stdc++.h>
+	"Bank.h"
+	<conio.h>
+
+1623870746 source:c:\users\devansh\desktop\bank\banking management system\src\employee.cpp
+	<bits/stdc++.h>
+	"Bank.h"
+	<conio.h>
+
+1623871022 source:c:\users\devansh\desktop\bank\banking management system\src\security.cpp
+	<bits/stdc++.h>
+	"Bank.h"
+	<conio.h>
+
+1623938254 source:c:\users\devansh\desktop\banking management system_202001262_202001465\banking management system\main.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	"Bank.h"
+	<windows.h>
+
+1623934080 c:\users\devansh\desktop\banking management system_202001262_202001465\banking management system\include\bank.h
+	<bits/stdc++.h>
+
+1623936587 source:c:\users\devansh\desktop\banking management system_202001262_202001465\banking management system\src\customer.cpp
+	<bits/stdc++.h>
+	"Bank.h"
+	<conio.h>
+
+1623870746 source:c:\users\devansh\desktop\banking management system_202001262_202001465\banking management system\src\employee.cpp
+	<bits/stdc++.h>
+	"Bank.h"
+	<conio.h>
+
+1623936819 source:c:\users\devansh\desktop\banking management system_202001262_202001465\banking management system\src\security.cpp
+	<bits/stdc++.h>
+	"Bank.h"
+	<conio.h>
+
